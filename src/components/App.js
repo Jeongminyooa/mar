@@ -28,8 +28,13 @@ class App extends React.Component {
       <div className="main">
         <div className="post-list"></div>
         <div className="post-body">
+<<<<<<< HEAD
+          <p>Title</p>
+          <p>muy name: {this.state.name}</p>
+=======
           <p>Title2</p>
           <p>Content {this.state.name}</p>
+>>>>>>> Changed App2.js
         </div>
       </div>
     );
